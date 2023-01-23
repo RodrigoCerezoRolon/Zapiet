@@ -3,7 +3,7 @@
 <h3>Steps to start the project, create and update TodoList </h3>
 
 <ol>
-    <li> Execute command php artisan make:migration</li>
+    <li> Execute command php artisan migrate</li>
     <li> Execute command php artisan db:seed --class=TodoItemSeeder</li>
     <li> Execute command php artisan update-status</li>
 </ol>
